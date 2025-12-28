@@ -1,0 +1,6 @@
+solicitationNumber,title,agency,document_type,postedDate,opportunityStatus,naics,keyword_match
+SOL-IT-005,Standard IT Services Solicitation,DEPT OF COMMERCE,Solicitation,12/24/2025,Open,541512,
+RFP-SEC-004,RFP: Cybersecurity Solutions Implementation,DEPT OF DEFENSE,RFP,12/23/2025,Open,541519,RFP
+RFP-INFRA-003,RFP: Enterprise IT Infrastructure Modernization,GENERAL SERVICES ADMINISTRATION,RFP,12/22/2025,Open,541513,RFP
+RFQ-IT-002,RFQ: IT Software Development Services,DEPT OF HEALTH AND HUMAN SERVICES,RFQ,12/21/2025,Open,541511,RFQ
+RFI-CLOUD-001,RFI: Cloud Computing Infrastructure Assessment,DEPT OF DEFENSE,RFI,12/20/2025,Open,541512,RFI
